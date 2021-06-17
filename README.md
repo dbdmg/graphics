@@ -3,4 +3,4 @@ Graphical assets for the group
 
 ## Logo
 
-![logo](logo.svg)
+![logo](logo_square.png)
