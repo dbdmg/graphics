@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/Users/fgiobergia/poli/graphics/website/thumbnail_DSTBD.png"
+   inkscape:export-xdpi="129.89"
+   inkscape:export-ydpi="129.89"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="thumbnail.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:zoom="1.0523576"
+     inkscape:cx="-61.290953"
+     inkscape:cy="190.04947"
+     inkscape:window-width="2560"
+     inkscape:window-height="1328"
+     inkscape:window-x="1440"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-29.457667"
+       y="112.12918"
+       width="739.29242"
+       height="357.293"
+       id="rect26875" />
+    <rect
+       x="111.35395"
+       y="432.8436"
+       width="317.89758"
+       height="109.55792"
+       id="rect1463" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke-width:0.529"
+       id="rect880"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,36.56696,119.60952)"
+       id="text1461"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1463);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g468"
+       transform="translate(36.56696,119.60952)" />
+    <rect
+       style="opacity:1;fill:#071374;fill-opacity:1;stroke-width:0.529"
+       id="rect20747"
+       width="27.907578"
+       height="22.627764"
+       x="-60.340706"
+       y="112.38456" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:0.529"
+       id="rect20749"
+       width="27.656157"
+       height="18.353622"
+       x="-60.089287"
+       y="94.03093" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.8056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#071374;fill-opacity:1;stroke:none;stroke-width:0.535111"
+       x="4.7150002"
+       y="82.477081"
+       id="text32309"
+       inkscape:export-filename="/Users/fgiobergia/poli/graphics/website/thumbnail_DSDBT.png"
+       inkscape:export-xdpi="129.89"
+       inkscape:export-ydpi="129.89"><tspan
+         id="tspan32307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.8056px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#071374;fill-opacity:1;stroke-width:0.535111"
+         x="4.7150002"
+         y="82.477081"
+         sodipodi:role="line">DSDB<tspan
+   style="fill:#e10000;fill-opacity:1"
+   id="tspan72057">T</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text26873"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect26875)" />
+  </g>
+</svg>
