@@ -11,7 +11,7 @@
    inkscape:export-xdpi="129.89"
    inkscape:export-ydpi="129.89"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   sodipodi:docname="thumbnail.svg"
+   sodipodi:docname="thumbnail-5-chars.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,13 +29,13 @@
      units="px"
      inkscape:snap-page="true"
      inkscape:zoom="1.0523576"
-     inkscape:cx="-61.290953"
-     inkscape:cy="190.04947"
-     inkscape:window-width="2560"
-     inkscape:window-height="1328"
-     inkscape:window-x="1440"
+     inkscape:cx="259.89264"
+     inkscape:cy="264.64388"
+     inkscape:window-width="1312"
+     inkscape:window-height="1045"
+     inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -99,7 +99,7 @@
          x="4.7150002"
          y="82.477081"
          sodipodi:role="line">DSDB<tspan
-   style="fill:#e10000;fill-opacity:1"
+   style="fill:#ff0000;fill-opacity:1"
    id="tspan72057">T</tspan></tspan></text>
     <text
        xml:space="preserve"
